@@ -4,7 +4,7 @@
 name: Run Python script on schedule
 
 env:
-  GITHUB_USER_NAME: Dengyu-Wu
+  GITHUB_USER_NAME: SpikingJ
   
 on:
   schedule:
