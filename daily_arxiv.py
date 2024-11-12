@@ -226,7 +226,7 @@ if __name__ == "__main__":
     
     keywords = dict()
     # keywords["Neuromorphics"]                    = "\"Neuromorphic\"OR\"Neuromorphics\""
-    keywords["Neuromorphics - Wireless"]  = "\"Neuromorphic\"AND(\"Wireless\"Or\"Split Computing\")"
+    keywords["Neuromorphics - Wireless"]  = "\"Neuromorphic\"AND\"Wireless\""
 
     for topic,keyword in keywords.items():
  
