@@ -45,6 +45,6 @@ jobs:
         github-token: ${{ secrets.GITHUB_TOKEN }}
         commit-message: 'Update list'
         files: README.md neuromorphic-arxiv-daily.json
-        rebase: 'true'
+        rebase: 'false'
         name: ${{ env.GITHUB_USER_NAME }}
         email: ${{ env.GITHUB_USER_EMAIL }}
