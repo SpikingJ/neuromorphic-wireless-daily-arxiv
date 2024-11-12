@@ -226,12 +226,7 @@ if __name__ == "__main__":
     
     keywords = dict()
     # keywords["Neuromorphics"]                    = "\"Neuromorphic\"OR\"Neuromorphics\""
-    keywords["Neuromorphics - Wireless"]  = "\"Neuromorphic\"AND\"Wireless\""
-    keywords["Neuromorphics - Online Learning"]  = "\"Neuromorphic\"AND\"Online learning\""
-    keywords["Neuromorphics - FPGA"]  = "\"Neuromorphic\"AND\"FPGA\""
-    keywords["Neuromorphics - Loihi"]  = "\"Neuromorphic\"AND\"Loihi\""
-    keywords["Neuromorphics - Optimization"]  = "\"Neuromorphic\"AND\"Optimization\""
-    keywords["Neuromorphics - Algorithm"]  = "\"Neuromorphic\"AND\"Algorithm\""
+    keywords["Neuromorphics - Wireless"]  = "\"Neuromorphic\"AND(\"Wireless\"Or\"Split Computing\")"
 
     for topic,keyword in keywords.items():
  
