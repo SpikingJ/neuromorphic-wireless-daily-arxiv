@@ -100,6 +100,7 @@ def get_daily_papers(topic,query="SNN", max_results=2):
 def update_json_file(filename,data_all):
     with open(filename,"r") as f:
         content = f.read()
+        print(filename)
         if not content:
             m = {}
         else:
