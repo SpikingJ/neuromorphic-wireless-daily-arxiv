@@ -98,16 +98,13 @@ def get_daily_papers(topic,query="SNN", max_results=2):
     return data,data_web 
 
 def update_json_file(filename,data_all):
-    if os.path.exists(filename):
-        with open(filename, "r") as f:
-            content = f.read()
-            if content:  # File has content, load JSON data
-                m = json.loads(content)
-            else:  # File is empty
-                m = {}
-    else:
-        # File doesn't exist
-        m = {}
+    with open(filename,"r") as f:
+        content = f.read()
+        if not content:
+            m = {}
+        else:
+            m = json.loads(content)
+            
             
     json_data = m.copy() 
     
@@ -238,7 +235,7 @@ if __name__ == "__main__":
         # topic = keyword.replace("\"","")
         print("Keyword: " + topic)
 
-        data,data_web = get_daily_papers(topic, query = keyword, max_results = 200)
+        data,data_web = get_daily_papers(topic, query = keyword, max_results = 100)
         data_collector.append(data)
         data_collector_web.append(data_web)
 
