@@ -1,4 +1,4 @@
-## Updated on 2025.05.21
+## Updated on 2025.05.24
 
 <details>
   <summary>Table of Contents</summary>
@@ -22,6 +22,7 @@
 |**2024-05-14**|**A Low-Power Spike Detector Using In-Memory Computing for Event-based Neural Frontend**|Ye Ke et.al.|[2405.08428v1](http://arxiv.org/abs/2405.08428v1)|null|
 |**2024-04-09**|**Neuromorphic In-Context Learning for Energy-Efficient MIMO Symbol Detection**|Zihang Song et.al.|[2404.06469v1](http://arxiv.org/abs/2404.06469v1)|null|
 |**2024-04-02**|**Neuromorphic Wireless Device-Edge Co-Inference via the Directed Information Bottleneck**|Yuzhen Ke et.al.|[2404.01804v1](http://arxiv.org/abs/2404.01804v1)|null|
+|**2025-05-22**|**Combining SNNs with Filtering for Efficient Neural Decoding in Implantable Brain-Machine Interfaces**|Biyan Zhou et.al.|[2312.15889v2](http://arxiv.org/abs/2312.15889v2)|null|
 |**2023-12-22**|**NeuroRIS: Neuromorphic-Inspired Metasurfaces**|Christos G. Tsinos et.al.|[2312.14548v1](http://arxiv.org/abs/2312.14548v1)|null|
 |**2023-12-15**|**Towards Neuromorphic Compression based Neural Sensing for Next-Generation Wireless Implantable Brain Machine Interface**|Vivek Mohan et.al.|[2312.09503v1](http://arxiv.org/abs/2312.09503v1)|null|
 |**2023-06-23**|**Wireless magneto-ionics: voltage control of magnetism by bipolar electrochemistry**|Zheng Ma et.al.|[2306.13417v1](http://arxiv.org/abs/2306.13417v1)|null|
@@ -41,7 +42,7 @@
 |**2019-03-25**|**Robotic Materials**|Nikolaus Correll et.al.|[1903.10480v1](http://arxiv.org/abs/1903.10480v1)|null|
 |**2018-11-07**|**Phase change-photonic framework for terahertz wave control**|Prakash Pitchappa et.al.|[1811.02729v1](http://arxiv.org/abs/1811.02729v1)|null|
 
-<p align=right>(<a href=#Updated-on-20250521>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250524>back to top</a>)</p>
 
 ## Neuromorphics - Split Computing
 
@@ -51,5 +52,5 @@
 |**2024-09-16**|**Neuromorphic Split Computing with Wake-Up Radios: Architecture and Design via Digital Twinning**|Jiechen Chen et.al.|[2404.01815v3](http://arxiv.org/abs/2404.01815v3)|null|
 |**2018-10-22**|**Spiking label propagation for community detection**|Kathleen E. Hamilton et.al.|[1801.03571v2](http://arxiv.org/abs/1801.03571v2)|null|
 
-<p align=right>(<a href=#Updated-on-20250521>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250524>back to top</a>)</p>
 
