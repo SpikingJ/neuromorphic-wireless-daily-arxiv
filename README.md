@@ -1,4 +1,4 @@
-## Updated on 2025.06.16
+## Updated on 2025.06.17
 
 <details>
   <summary>Table of Contents</summary>
@@ -12,6 +12,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-16**|**Realtime-Capable Hybrid Spiking Neural Networks for Neural Decoding of Cortical Activity**|Jann Krausse et.al.|[2506.13400v1](http://arxiv.org/abs/2506.13400v1)|null|
 |**2025-03-24**|**Design, Development and Testing of a Conformal 60 GHz Active Repeater for High Energy Physics Applications**|Imran Aziz et.al.|[2503.18735v1](http://arxiv.org/abs/2503.18735v1)|null|
 |**2025-03-14**|**Non Line-of-Sight Optical Wireless Communication using Neuromorphic Cameras**|Abbaas Alif Mohamed Nishar et.al.|[2503.11226v1](http://arxiv.org/abs/2503.11226v1)|null|
 |**2025-02-24**|**SpikACom: A Neuromorphic Computing Framework for Green Communications**|Yanzhen Liu et.al.|[2502.17168v1](http://arxiv.org/abs/2502.17168v1)|**[link](https://github.com/yl5922/spikacom)**|
@@ -42,7 +43,7 @@
 |**2019-03-25**|**Robotic Materials**|Nikolaus Correll et.al.|[1903.10480v1](http://arxiv.org/abs/1903.10480v1)|null|
 |**2018-11-07**|**Phase change-photonic framework for terahertz wave control**|Prakash Pitchappa et.al.|[1811.02729v1](http://arxiv.org/abs/1811.02729v1)|null|
 
-<p align=right>(<a href=#Updated-on-20250616>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250617>back to top</a>)</p>
 
 ## Neuromorphics - Split Computing
 
@@ -52,5 +53,5 @@
 |**2024-09-16**|**Neuromorphic Split Computing with Wake-Up Radios: Architecture and Design via Digital Twinning**|Jiechen Chen et.al.|[2404.01815v3](http://arxiv.org/abs/2404.01815v3)|null|
 |**2018-10-22**|**Spiking label propagation for community detection**|Kathleen E. Hamilton et.al.|[1801.03571v2](http://arxiv.org/abs/1801.03571v2)|null|
 
-<p align=right>(<a href=#Updated-on-20250616>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250617>back to top</a>)</p>
 
