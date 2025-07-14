@@ -1,4 +1,4 @@
-## Updated on 2025.07.13
+## Updated on 2025.07.14
 
 <details>
   <summary>Table of Contents</summary>
@@ -44,16 +44,17 @@
 |**2019-03-25**|**Robotic Materials**|Nikolaus Correll et.al.|[1903.10480v1](http://arxiv.org/abs/1903.10480v1)|null|
 |**2018-11-07**|**Phase change-photonic framework for terahertz wave control**|Prakash Pitchappa et.al.|[1811.02729v1](http://arxiv.org/abs/1811.02729v1)|null|
 
-<p align=right>(<a href=#Updated-on-20250713>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250714>back to top</a>)</p>
 
 ## Neuromorphics - Split Computing
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-11**|**Onboard Neuromorphic Split Computing via Optical Links for LEO Remote Sensing**|Zihang Song et.al.|[2507.08490v1](http://arxiv.org/abs/2507.08490v1)|null|
 |**2025-06-24**|**Neuromorphic Wireless Split Computing with Resonate-and-Fire Neurons**|Dengyu Wu et.al.|[2506.20015v1](http://arxiv.org/abs/2506.20015v1)|null|
 |**2025-03-28**|**Neuromorphic Wireless Split Computing with Multi-Level Spikes**|Dengyu Wu et.al.|[2411.04728v3](http://arxiv.org/abs/2411.04728v3)|**[link](https://github.com/kclip/neurocomm-msnn)**|
 |**2024-09-16**|**Neuromorphic Split Computing with Wake-Up Radios: Architecture and Design via Digital Twinning**|Jiechen Chen et.al.|[2404.01815v3](http://arxiv.org/abs/2404.01815v3)|null|
 |**2018-10-22**|**Spiking label propagation for community detection**|Kathleen E. Hamilton et.al.|[1801.03571v2](http://arxiv.org/abs/1801.03571v2)|null|
 
-<p align=right>(<a href=#Updated-on-20250713>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250714>back to top</a>)</p>
 
