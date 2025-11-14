@@ -1,4 +1,4 @@
-## Updated on 2025.11.13
+## Updated on 2025.11.14
 
 <details>
   <summary>Table of Contents</summary>
@@ -44,7 +44,7 @@
 |**2019-03-25**|**Robotic Materials**|Nikolaus Correll et.al.|[1903.10480v1](http://arxiv.org/abs/1903.10480v1)|null|
 |**2018-11-07**|**Phase change-photonic framework for terahertz wave control**|Prakash Pitchappa et.al.|[1811.02729v1](http://arxiv.org/abs/1811.02729v1)|null|
 
-<p align=right>(<a href=#Updated-on-20251113>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20251114>back to top</a>)</p>
 
 ## Neuromorphics - Split Computing
 
@@ -56,5 +56,5 @@
 |**2024-09-16**|**Neuromorphic Split Computing with Wake-Up Radios: Architecture and Design via Digital Twinning**|Jiechen Chen et.al.|[2404.01815v3](http://arxiv.org/abs/2404.01815v3)|null|
 |**2018-10-22**|**Spiking label propagation for community detection**|Kathleen E. Hamilton et.al.|[1801.03571v2](http://arxiv.org/abs/1801.03571v2)|null|
 
-<p align=right>(<a href=#Updated-on-20251113>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20251114>back to top</a>)</p>
 
